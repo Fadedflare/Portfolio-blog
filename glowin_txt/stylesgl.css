@@ -16,7 +16,7 @@ body{
     animation-direction: alternate;
     animation-iteration-count: infinite;            
     padding:40px;
-    line-height:1.5;
+    line-height:1;
     text-transform:uppercase;
  }
  .cl{
@@ -37,7 +37,7 @@ body{
 @keyframes animate {
     0%,100%{ text-shadow:0 0 30px rgb(29, 239, 243); }
     25%{ text-shadow:0 0 30px rgb(151, 3, 31); }
-    50%{ text-shadow:0 0 30px forestgreen; }
+    50%{ text-shadow:0 0 30px rgb(40, 178, 27); }
     75%{ text-shadow:0 0 30px rgb(160, 214, 33); }
  }
 
